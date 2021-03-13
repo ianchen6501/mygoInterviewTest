@@ -22,5 +22,5 @@
 1. 啟動 JEST test，會回傳測試結果及涵蓋率報告  
    `npm run test`
 
-2. 測試結果
-   ![](https://imgur.com/XNObNJN)
+2. 測試結果  
+   ![Imgur Image](https://imgur.com/XNObNJN)
