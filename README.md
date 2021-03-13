@@ -4,7 +4,7 @@
 
 ## 環境設定
 
-1. 安裝 Jest  
+1. 安裝 JEST  
    `npm install --save-dev jest`
 
 2. 設定 package.json 以啟動 JEST test
