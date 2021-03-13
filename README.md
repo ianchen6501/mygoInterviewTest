@@ -23,4 +23,4 @@
    `npm run test`
 
 2. 測試結果  
-   ![Imgur Image](https://imgur.com/XNObNJN)
+   ![Imgur Image](./coverageReport.PNG)
